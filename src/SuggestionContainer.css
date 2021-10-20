@@ -1,0 +1,27 @@
+.container-visible{
+    position:absolute;
+    bottom: 0px;
+    
+    display:flex; 
+    justify-content: space-evenly;
+  
+}
+
+.container-not-visible{
+    display:none;
+}
+
+.item1{
+    height:128px;
+    width:144px;
+}
+
+.item2{
+    height:128px;
+    width:144px;
+}
+
+.item3{
+    height:128px;
+    width:144px;
+}

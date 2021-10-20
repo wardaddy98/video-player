@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.window{
+    position:relative;
+    height:360px;
+    width:640px;
+    margin-top:50px;
+    left:430px;
+}
+
+
+.rp{
+    height:100%;
+    width:100%;
+    position:absolute;
+    top:0px;
+    
+}
+
+
+
